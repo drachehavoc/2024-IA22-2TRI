@@ -42,6 +42,8 @@ Adicione o seguinte script ao seu `package.json`
 
 ## Criando arquivo inicial do servidor
 
+Adicione o seguinte código ao arquivo `src/app.ts`
+
 ```typescript
 import express from 'express';
 import cors from 'cors';
