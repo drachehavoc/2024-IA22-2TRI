@@ -1,0 +1,21 @@
+POST http://localhost:3333/users HTTP/1.1
+content-type: application/json
+
+{
+  "name": "John Doe",
+  "email": "johndoe@mail.com"
+}
+
+####
+
+PUT http://localhost:3333/users/1 HTTP/1.1
+content-type: application/json
+
+{
+  "name": "John Doe Updated",
+  "email": "johndoe@mail.com"
+}
+
+####
+
+DELETE http://localhost:3333/users/1 HTTP/1.1

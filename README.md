@@ -42,8 +42,6 @@ Adicione o seguinte script ao seu `package.json`
 
 ## Criando arquivo inicial do servidor
 
-Adicione o seguinte código ao arquivo `src/app.ts`
-
 ```typescript
 import express from 'express';
 import cors from 'cors';
@@ -80,10 +78,10 @@ Abra o navegador e acesse `http://localhost:3333`, você verá a mensagem `Hello
 Crie um arquivo `database.ts` dentro da pasta `src` e adicione o seguinte código.
 
 ```typescript
-import { open } from 'sqlite';
+import { open, Database } from 'sqlite';
 import sqlite3 from 'sqlite3';
 
-let instance: sqlite3.Database | null = null;
+let instance: Database | null = null;
 
 export async function connect() {
   if (instance) return instance;
@@ -145,7 +143,7 @@ Abra o Postman e faça uma requisição POST para `http://localhost:3333/users` 
 ```json
 {
   "name": "John Doe",
-  "email": "
+  "email": "johndoe@mail.com"
 }
 ```
 
@@ -155,7 +153,7 @@ Se tudo ocorrer bem, você verá a resposta com o usuário inserido.
 {
   "id": 1,
   "name": "John Doe",
-  "email": "
+  "email": "johndoe@mail.com"
 }
 ```
 
@@ -169,5 +167,37 @@ app.get('/users', async (req, res) => {
   const users = await db.all('SELECT * FROM users');
 
   res.json(users);
+});
+```
+
+## Editando um usuário
+
+Adicione a rota `/users/:id` ao servidor.
+
+```typescript
+app.put('/users/:id', async (req, res) => {
+  const db = await connect();
+  const { name, email } = req.body;
+  const { id } = req.params;
+
+  await db.run('UPDATE users SET name = ?, email = ? WHERE id = ?', [name, email, id]);
+  const user = await db.get('SELECT * FROM users WHERE id = ?', [id]);
+
+  res.json(user);
+});
+```
+
+## Deletando um usuário
+
+Adicione a rota `/users/:id` ao servidor.
+
+```typescript
+app.delete('/users/:id', async (req, res) => {
+  const db = await connect();
+  const { id } = req.params;
+
+  await db.run('DELETE FROM users WHERE id = ?', [id]);
+
+  res.json({ message: 'User deleted' });
 });
 ```
