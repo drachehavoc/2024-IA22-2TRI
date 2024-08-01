@@ -36,7 +36,7 @@ Adicione o seguinte script ao seu `package.json`
 
 ```json
 "scripts": {
-  "dev": "npx nodemon src/app.ts"
+  "dev": "nodemon src/app.ts"
 }
 ```
 
