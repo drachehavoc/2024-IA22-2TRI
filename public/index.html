@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <form>
+    <input type="text" name="name" placeholder="Nome">
+    <input type="email" name="email" placeholder="Email">
+    <button type="submit">Cadastrar</button>
+  </form>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Ações</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!--  -->
+    </tbody>
+  </table>
+
+  <script>
+    // 
+    const form = document.querySelector('form')
+
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault()
+
+      const name = form.name.value
+      const email = form.email.value
+
+      await fetch('/users', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name, email })
+      })
+
+      form.reset()
+      fetchData()
+    })
+
+    // 
+    const tbody = document.querySelector('tbody')
+
+    async function fetchData() {
+      const resp = await fetch('/users')
+      const data = await resp.json()
+
+      tbody.innerHTML = ''
+
+      data.forEach(user => {
+        const tr = document.createElement('tr')
+        tr.innerHTML = `
+          <td>${user.id}</td>
+          <td>${user.name}</td>
+          <td>${user.email}</td>
+          <td>
+            <button class="excluir">excluir</button>
+            <button class="editar">editar</button>
+          </td>
+        `
+
+        const btExcluir = tr.querySelector('button.excluir')
+        const btEditar = tr.querySelector('button.editar')
+
+        btExcluir.addEventListener('click', async () => {
+          await fetch(`/users/${user.id}`, { method: 'DELETE' })
+          tr.remove()
+        })
+
+        btEditar.addEventListener('click', async () => {
+          const name = prompt('Novo nome:', user.name)
+          const email = prompt('Novo email:', user.email)
+
+          await fetch(`/users/${user.id}`, {
+            method: 'PUT',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ name, email })
+          })
+
+          fetchData()
+        })
+
+        tbody.appendChild(tr)
+      })
+    }
+
+    fetchData()
+  </script>
+</body>
+
+</html>
