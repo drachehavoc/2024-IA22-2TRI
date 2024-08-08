@@ -2,7 +2,7 @@
 
 ## Turma 01
 - Alan 
-  - https://github.com/0Rocha
+  - https://github.com/0Rocha/2024-IA22-2TRI
 - Antony 
   - https://github.com/GabrielSilva47/2024-IA22-2TRI.git
 - Arthur 
@@ -11,8 +11,8 @@
   - https://github.com/Carolina-Da-Silva/2024-IA22-2TRI
 - Carolina Crestani 
   - https://github.com/Kriegs1889/2024-IA22-2TRI
-- Caroline da silva 
-  - https://github.com/silvacarol08
+- Carolina da Silva
+  - https://github.com/Carolina-Da-Silva/2024-IA22-2TRI.git
 - Cristian 
   - https://github.com/CrishBic/2024-IA22-2TRI-Cristian
 - Edson 
@@ -27,8 +27,8 @@
   - https://github.com/Erickkullmann/2024-IA22-2TRI
 - Gabriel 
   - https://github.com/GabrielRicardo1
-- Hiago 
-  - https://github.com/caomuna
+- Hiago de Araújo Pereira
+  - https://github.com/caomuna/2024-IA22-2TRI
 - hugo 
   - https://github.com/Hou-woo/2024-IA22-2TRI
 - iuri 
@@ -51,7 +51,7 @@
   - https://github.com/domainski2/IAMarcos2024-IA22-2TRI
 - Marcus 
   - https://github.com/fentanylity/2024-2TRI-IA22
-- Nicolas 
+- Nícolas Ferreira dos Santos
   - https://github.com/nicolicof/2024-IA22-2TRI
 - Raquel 
   - https://github.com/raquelgw/2024-IA22-2TRI
@@ -65,7 +65,7 @@
   - https://github.com/IARonald/2024-IA22-2TRI
 - Yan 
   - https://github.com/YanWeberFrancelino/2024-IA22-2TRI
-- Yasmim rebello 
+- Yasmim Rassoul Rebello
   - https://github.com/YBroflovski/2024-IA22-2TRI-Yasmim
 - Yasmin andrade 
   - https://github.com/yasandradeRJ/2024-IA22
