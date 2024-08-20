@@ -16,7 +16,7 @@
 | 10  | EDUARDO PROENÇA DA CRUZ                 | https://github.com/EduardoCruz78/AtividadeProg2          |
 | 11  | EMANUELLA PEREIRA DE OLIVEIRA           | https://github.com/EmanuellaPereira01/2024-IA22-2TRI.git |
 | 12  | ÉRICK DE OLIVEIRA KULLMANN              | https://github.com/Erickkullmann/2024-IA22-2TRI          |
-| 13  | GABRIEL COUTO RICARDO                   | https://github.com/GabrielRicardo1                       |
+| 13  | GABRIEL COUTO RICARDO                   | https://github.com/GabrielRicardo1/2024-IA22-2TRI        |
 | 14  | HIAGO DE ARAÚJO PEREIRA                 | https://github.com/caomuna/2024-IA22-2TRI                |
 | 15  | HUGO URION TOMÁZ DA ROSA                | https://github.com/Hou-woo/2024-IA22-2TRI                |
 | 16  | IURI GABRIEL PRESTES DA SILVA           | https://github.com/iuri2007/2024-IA22-2TRI               |
@@ -24,11 +24,11 @@
 
 ## Turma 02
 
-|    | nome                                git a| link                                                     |
-| -- | ----------------------------------- | ------------------------------------------------------- |
+|    | nome                                | link                                                     |
+| -- | ----------------------------------- | -------------------------------------------------------- |
 | 18 | JOÃO VITOR GOMES DA CRUZ OSÓRIO     | https://github.com/Gomes047/2024-IA22-2TRI               |
 | 19 | JOSUÉ SANTOS JUNIOR                 | http://github.com/Sholipatv/2024-IA22-2TRI-Josue         |
-| 20 | KALLEBI RODRIGUES BORGES            | https://github.com/kallebi10                             |
+| 20 | KALLEBI RODRIGUES BORGES            | https://github.com/Kallebi10/Kallebi-2024-ia22-2tri      |
 | 21 | LETÍCIA MEIRINHO LIMA               | https://github.com/leh-lima/2022-IA22                    |
 | 22 | LUCAS DE MIRANDA KEMCZINSKI         | https://github.com/lucasmirandak/2024-IA22-2TRI          |
 | 23 | MARCOS DOMAINSKI JUNIOR             | https://github.com/domainski2/IAMarcos2024-IA22-2TRI     |
