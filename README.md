@@ -4,15 +4,15 @@
 
 |     | nome                                    | link                                                     |
 | --- | --------------------------------------- | -------------------------------------------------------- |
-| 1   | ALAN ROCHA RIBEIRO                      | https://github.com/0Rocha/2024-IA22-2TRI                 |
-| 2   | ANTONY GABRIEL DA SILVA BARROS          | https://github.com/GabrielSilva47/2024-IA22-2TRI.git     |
-| 3   | ARTHUR RODRIGUES PEREIRA                | https://github.com/arpbr/2024-IA22-2TRI                  |
-| 4   | CAROLINA DA SILVA                       | https://github.com/Carolina-Da-Silva/2024-IA22-2TRI      |
-| 5   | CAROLINE CRESTANI MELLO                 | https://github.com/Kriegs1889/2024-IA22-2TRI             |
-| 6   | CAROLINE DA SILVA                       | https://github.com/silvacarol08                          |
-| 7   | CRISTIAN GUILHERME BIANCHINI GOMES      | https://github.com/CrishBic/2024-IA22-2TRI-Cristian      |
-| 8   | EDSON EDUARDO DOS SANTOS TAVARES        | https://github.com/Edson-Edu                             |
-| 9   | EDUARDO MINOSSO DE OLIVEIRA             | https://github.com/Eduard0liveira/2024-IA22-2TRI         |
+| 01  | ALAN ROCHA RIBEIRO                      | https://github.com/0Rocha/2024-IA22-2TRI                 |
+| 02  | ANTONY GABRIEL DA SILVA BARROS          | https://github.com/GabrielSilva47/2024-IA22-2TRI.git     |
+| 03  | ARTHUR RODRIGUES PEREIRA                | https://github.com/arpbr/2024-IA22-2TRI                  |
+| 04  | CAROLINA DA SILVA                       | https://github.com/Carolina-Da-Silva/2024-IA22-2TRI      |
+| 05  | CAROLINE CRESTANI MELLO                 | https://github.com/Kriegs1889/2024-IA22-2TRI             |
+| 06  | CAROLINE DA SILVA                       | https://github.com/silvacarol08                          |
+| 07  | CRISTIAN GUILHERME BIANCHINI GOMES      | https://github.com/CrishBic/2024-IA22-2TRI-Cristian      |
+| 08  | EDSON EDUARDO DOS SANTOS TAVARES        | https://github.com/Edson-Edu                             |
+| 09  | EDUARDO MINOSSO DE OLIVEIRA             | https://github.com/Eduard0liveira/2024-IA22-2TRI         |
 | 10  | EDUARDO PROENÇA DA CRUZ                 | https://github.com/EduardoCruz78/AtividadeProg2          |
 | 11  | EMANUELLA PEREIRA DE OLIVEIRA           | https://github.com/EmanuellaPereira01/2024-IA22-2TRI.git |
 | 12  | ÉRICK DE OLIVEIRA KULLMANN              | https://github.com/Erickkullmann/2024-IA22-2TRI          |
