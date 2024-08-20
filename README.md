@@ -9,12 +9,12 @@
 | &check; | 03  | ARTHUR RODRIGUES PEREIRA                | https://github.com/arpbr/2024-IA22-2TRI                  |
 | &check; | 04  | CAROLINA DA SILVA                       | https://github.com/Carolina-Da-Silva/2024-IA22-2TRI      |
 | &check; | 05  | CAROLINE CRESTANI MELLO                 | https://github.com/Kriegs1889/2024-IA22-2TRI             |
-| &cross; | 06  | CAROLINE DA SILVA                       | https://github.com/silvacarol08                          |
+|         | 06  | CAROLINE DA SILVA                       | https://github.com/silvacarol08                          |
 | &check; | 07  | CRISTIAN GUILHERME BIANCHINI GOMES      | https://github.com/CrishBic/2024-IA22-2TRI-Cristian      |
 | &check; | 08  | EDSON EDUARDO DOS SANTOS TAVARES        | https://github.com/Edson-Edu/2024-IA22-2TRI              |
 | &check; | 09  | EDUARDO MINOSSO DE OLIVEIRA             | https://github.com/Eduard0liveira/2024-IA22-2TRI         |
 | &check; | 10  | EDUARDO PROENÇA DA CRUZ                 | https://github.com/EduardoCruz78/AtividadeProg2          |
-| &cross; | 11  | EMANUELLA PEREIRA DE OLIVEIRA           | https://github.com/EmanuellaPereira01/2024-IA22-2TRI.git |
+|         | 11  | EMANUELLA PEREIRA DE OLIVEIRA           | https://github.com/EmanuellaPereira01/2024-IA22-2TRI.git |
 | &check; | 12  | ÉRICK DE OLIVEIRA KULLMANN              | https://github.com/Erickkullmann/2024-IA22-2TRI          |
 | &check; | 13  | GABRIEL COUTO RICARDO                   | https://github.com/GabrielRicardo1/2024-IA22-2TRI        |
 | &check; | 14  | HIAGO DE ARAÚJO PEREIRA                 | https://github.com/caomuna/2024-IA22-2TRI                |
