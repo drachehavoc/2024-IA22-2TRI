@@ -9,6 +9,10 @@ app.use(cors())
 app.use(express.json())
 app.use(express.static(__dirname + '/../public'))
 
+app.use('/teste', (req, res) => {
+  res.send('Hello World')
+})
+
 app.get('/users', async (req, res) => {
   const db = await connect()
   const users = await db.all('SELECT * FROM users')
