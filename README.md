@@ -37,7 +37,7 @@
 | 26 | RAQUEL GOMES WELTER                 | https://github.com/raquelgw/2024-IA22-2TRI               |
 | 27 | RHAI VITOR DOS SANTOS DE ALMEIDA    | https://github.com/Rhaiiiii/2024-IA24                    |
 | 28 | ROGER ALAN TORQUATO                 | https://github.com/helo-wordd/2024-IA22-2TRI             |
-| 29 | ROGER EDUARDO CORREA                | https://github.com/reczin                                |
+| 29 | ROGER EDUARDO CORREA                | https://github.com/reczin/2024-IA22-2TRI                 |
 | 30 | RONALD WISLLEY DO NASCIMENTO SANTOS | https://github.com/IARonald/2024-IA22-2TRI               |
 | 31 | YAN WEBER FRANCELINO                | https://github.com/YanWeberFrancelino/2024-IA22-2TRI     |
 | 32 | YASMIM RASSOUL REBELLO              | https://github.com/YBroflovski/2024-IA22-2TRI-Yasmim     |
