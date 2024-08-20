@@ -1,5 +1,7 @@
 # Tutoriais  
-[x]
+
+- [x] teste
+
 ## Turma 01
 
 |     |     | nome                                    | link                                                     |
